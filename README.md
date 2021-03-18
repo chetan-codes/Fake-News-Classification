@@ -6,4 +6,8 @@ Python
 ## Technologies:
 Jupyter Notebook
 Anaconda Navigator
+## Libraries used:
+Numpy
+Pandas
+
 
