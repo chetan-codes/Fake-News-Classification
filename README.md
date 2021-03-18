@@ -3,3 +3,5 @@ Fake news classification and analysis with confusion matrix, TfidVectorizer and 
 
 ## Languages used:
 Python
+## Technologies:
+Jupyter Notebook
