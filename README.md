@@ -5,3 +5,5 @@ Fake news classification and analysis with confusion matrix, TfidVectorizer and 
 Python
 ## Technologies:
 Jupyter Notebook
+Anaconda Navigator
+
