@@ -10,6 +10,5 @@ Anaconda Navigator
 Numpy
 Pandas
 SkLearn
-...
-...
+
 
